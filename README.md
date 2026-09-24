@@ -1,4 +1,4 @@
-# NYC-taxi-data-pipeline
+
 # NYC Taxi Data Pipeline
 
 ## Project Overview
